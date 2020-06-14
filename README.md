@@ -22,13 +22,17 @@
 
 - Bivariate Analysis
 
-- Decision Trees:-Random Forest
+- Decision Trees:
+                 
+                 -Random Forest
 
                  - AdaBoost
                  
                  - Gradient Boosting
 
-- Support Vector Machine: - Kernel(Linear)
+- Support Vector Machine:
+
+                          - Kernel(Linear)
 
                           - Kernel(Polynomial)
                           
